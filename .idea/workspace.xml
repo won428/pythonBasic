@@ -4,24 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3dfafd01-8b7e-4cdb-8a9c-2ebae2096f10" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Basic.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch01_variable_operator/CoffeeSales.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch01_variable_operator/FruitSales.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch01_variable_operator/InputHumanInfo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch01_variable_operator/InputSungjuk.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch01_variable_operator/MyPrint.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch01_variable_operator/PercentFormatting01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch01_variable_operator/PercentFormatting02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch01_variable_operator/PrintMe.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch01_variable_operator/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch02_control_statement/AdultCheck.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch02_control_statement/SuccessFail.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch02_control_statement/__init__.py" afterDir="false" />
+    <list default="true" id="3dfafd01-8b7e-4cdb-8a9c-2ebae2096f10" name="Changes" comment="25.11.19">
+      <change afterPath="$PROJECT_DIR$/ch02_control_statement/CalcInCome.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch02_control_statement/HakjumIfCheck.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch02_control_statement/SayHello.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch02_control_statement/for01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch03_iterable/MakeDictExam01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch03_iterable/MakeDictExam02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch03_iterable/MakeListExam02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch03_iterable/MakeTupleExam01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch03_iterable/MyBreadList.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch03_iterable/MyTupleExam02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch03_iterable/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +33,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;won428&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/won428/pythonBasic.git&quot;,
+    &quot;accountId&quot;: &quot;a0974c28-ba98-405d-83cf-a778be6c2302&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -50,18 +57,29 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.AdultCheck.executor": "Run",
+    "Python.CalcInCome.executor": "Run",
     "Python.CoffeeSales.executor": "Run",
+    "Python.HakjumIfCheck.executor": "Run",
     "Python.InputHumanInfo.executor": "Run",
     "Python.InputSungjuk.executor": "Run",
+    "Python.MakeDictExam01.executor": "Run",
+    "Python.MakeDictExam02.executor": "Run",
+    "Python.MakeListExam02.executor": "Run",
+    "Python.MakeTupleExam01.executor": "Run",
+    "Python.MyBreadList.executor": "Run",
     "Python.MyPrint.executor": "Run",
+    "Python.MyTupleExam02.executor": "Run",
     "Python.PercentFormatting01.executor": "Run",
     "Python.PercentFormatting02.executor": "Run",
     "Python.PrintMe.executor": "Run",
+    "Python.SayHello.executor": "Run",
     "Python.SuccessFail.executor": "Run",
     "Python.appleCount, appleQty.executor": "Run",
+    "Python.for01.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/PythonProject/Basic/ch03_iterable",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -71,8 +89,13 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.SuccessFail">
-    <configuration name="AdultCheck" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\PythonProject\Basic\ch03_iterable" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.MakeDictExam02">
+    <configuration name="MakeDictExam01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Basic" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -81,12 +104,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch02_control_statement" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch03_iterable" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch02_control_statement/AdultCheck.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch03_iterable/MakeDictExam01.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -95,7 +118,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="FruitSales" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="MakeDictExam02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Basic" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -104,12 +127,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch01_variable_operator" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch03_iterable" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="D:\PythonProject\Basic\ch01_variable_operator\FruitSales.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch03_iterable/MakeDictExam02.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -118,7 +141,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="InputHumanInfo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="MakeTupleExam01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Basic" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -127,12 +150,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch01_variable_operator" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch03_iterable" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch01_variable_operator/InputHumanInfo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch03_iterable/MakeTupleExam01.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -141,7 +164,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="InputSungjuk" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="MyBreadList" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Basic" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -150,12 +173,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch01_variable_operator" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch03_iterable" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch01_variable_operator/InputSungjuk.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch03_iterable/MyBreadList.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -164,7 +187,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="SuccessFail" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="MyTupleExam02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Basic" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -173,12 +196,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch02_control_statement" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch03_iterable" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch02_control_statement/SuccessFail.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch03_iterable/MyTupleExam02.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -189,11 +212,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.SuccessFail" />
-        <item itemvalue="Python.AdultCheck" />
-        <item itemvalue="Python.InputSungjuk" />
-        <item itemvalue="Python.InputHumanInfo" />
-        <item itemvalue="Python.FruitSales" />
+        <item itemvalue="Python.MakeDictExam02" />
+        <item itemvalue="Python.MakeDictExam01" />
+        <item itemvalue="Python.MyTupleExam02" />
+        <item itemvalue="Python.MyBreadList" />
+        <item itemvalue="Python.MakeTupleExam01" />
       </list>
     </recent_temporary>
   </component>
@@ -213,23 +236,47 @@
       <option name="presentableId" value="Default" />
       <updated>1763515018810</updated>
       <workItem from="1763515019877" duration="7553000" />
-      <workItem from="1763523347566" duration="11843000" />
+      <workItem from="1763523347566" duration="11935000" />
+      <workItem from="1763598648945" duration="21617000" />
     </task>
+    <task id="LOCAL-00001" summary="25.11.19">
+      <option name="closed" value="true" />
+      <created>1763540459218</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1763540459218</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="25.11.19" />
+    <option name="LAST_COMMIT_MESSAGE" value="25.11.19" />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Basic$PercentFormatting02.coverage" NAME="PercentFormatting02 Coverage Results" MODIFIED="1763525461544" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch01_variable_operator" />
-    <SUITE FILE_PATH="coverage/Basic$SuccessFail.coverage" NAME="SuccessFail Coverage Results" MODIFIED="1763538662089" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch02_control_statement" />
-    <SUITE FILE_PATH="coverage/Basic$appleCount__appleQty.coverage" NAME="appleCount, appleQty Coverage Results" MODIFIED="1763532383039" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch01_variable_operator" />
+    <SUITE FILE_PATH="coverage/Basic$HakjumIfCheck.coverage" NAME="HakjumIfCheck Coverage Results" MODIFIED="1763599962247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch02_control_statement" />
     <SUITE FILE_PATH="coverage/Basic$MyPrint.coverage" NAME="MyPrint Coverage Results" MODIFIED="1763520803851" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch01_variable_operator" />
-    <SUITE FILE_PATH="coverage/Basic$CoffeeSales.coverage" NAME="CoffeeSales Coverage Results" MODIFIED="1763531234495" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch01_variable_operator" />
     <SUITE FILE_PATH="coverage/Basic$PercentFormatting01.coverage" NAME="PercentFormatting01 Coverage Results" MODIFIED="1763524355594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch01_variable_operator" />
-    <SUITE FILE_PATH="coverage/Basic$InputSungjuk.coverage" NAME="InputSungjuk Coverage Results" MODIFIED="1763535351676" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch01_variable_operator" />
     <SUITE FILE_PATH="coverage/Basic$AdultCheck.coverage" NAME="AdultCheck Coverage Results" MODIFIED="1763538350763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch02_control_statement" />
+    <SUITE FILE_PATH="coverage/Basic$MyTupleExam02.coverage" NAME="MyTupleExam02 Coverage Results" MODIFIED="1763618390208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch03_iterable" />
     <SUITE FILE_PATH="coverage/Basic$PrintMe.coverage" NAME="PrintMe Coverage Results" MODIFIED="1763521106323" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch01_variable_operator" />
+    <SUITE FILE_PATH="coverage/Basic$MakeDictExam01.coverage" NAME="MakeDictExam01 Coverage Results" MODIFIED="1763624403196" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch03_iterable" />
+    <SUITE FILE_PATH="coverage/Basic$SuccessFail.coverage" NAME="SuccessFail Coverage Results" MODIFIED="1763598778064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch02_control_statement" />
+    <SUITE FILE_PATH="coverage/Basic$CalcInCome.coverage" NAME="CalcInCome Coverage Results" MODIFIED="1763600697756" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch02_control_statement" />
+    <SUITE FILE_PATH="coverage/Basic$MakeTupleExam01.coverage" NAME="MakeTupleExam01 Coverage Results" MODIFIED="1763611271737" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch03_iterable" />
+    <SUITE FILE_PATH="coverage/Basic$appleCount__appleQty.coverage" NAME="appleCount, appleQty Coverage Results" MODIFIED="1763532383039" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch01_variable_operator" />
+    <SUITE FILE_PATH="coverage/Basic$CoffeeSales.coverage" NAME="CoffeeSales Coverage Results" MODIFIED="1763531234495" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch01_variable_operator" />
+    <SUITE FILE_PATH="coverage/Basic$MakeDictExam02.coverage" NAME="MakeDictExam02 Coverage Results" MODIFIED="1763625054392" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch03_iterable" />
+    <SUITE FILE_PATH="coverage/Basic$MyBreadList.coverage" NAME="MyBreadList Coverage Results" MODIFIED="1763617814041" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch03_iterable" />
+    <SUITE FILE_PATH="coverage/Basic$InputSungjuk.coverage" NAME="InputSungjuk Coverage Results" MODIFIED="1763535351676" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch01_variable_operator" />
+    <SUITE FILE_PATH="coverage/Basic$for01.coverage" NAME="for01 Coverage Results" MODIFIED="1763603679084" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch02_control_statement" />
+    <SUITE FILE_PATH="coverage/Basic$SayHello.coverage" NAME="SayHello Coverage Results" MODIFIED="1763604293872" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch02_control_statement" />
+    <SUITE FILE_PATH="coverage/Basic$MakeListExam02.coverage" NAME="MakeListExam02 Coverage Results" MODIFIED="1763609485217" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch03_iterable" />
     <SUITE FILE_PATH="coverage/Basic$InputHumanInfo.coverage" NAME="InputHumanInfo Coverage Results" MODIFIED="1763534814412" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch01_variable_operator" />
   </component>
 </project>
