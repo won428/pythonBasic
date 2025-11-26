@@ -5,19 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3dfafd01-8b7e-4cdb-8a9c-2ebae2096f10" name="Changes" comment="25.11.24">
-      <change afterPath="$PROJECT_DIR$/ch07_class/ClassAccount.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch07_class/ClassCircle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch07_class/HasADosirak.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch07_class/InhePerson.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch07_class/InheSports.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch07_class/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch08_exception/ExcepTest01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch08_exception/ExcepTest02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch08_exception/ExcepTest03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch08_exception/Exception01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch08_exception/Exception02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch08_exception/Exception03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch08_exception/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch09_file_io/FiieIoTest01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch09_file_io/FiieIoTest02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch09_file_io/FileIo01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch09_file_io/FileIo02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch09_file_io/GetCoffeeInfo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch09_file_io/JumsuCheck00.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch09_file_io/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch09_file_io/coffee.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch09_file_io/jumsu.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch09_file_io/jumsuCheck02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch09_file_io/memberData.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch09_file_io/memdata01.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,81 +54,90 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.AddFunction.executor&quot;: &quot;Run&quot;,
-    &quot;Python.AdultCheck.executor&quot;: &quot;Run&quot;,
-    &quot;Python.BuiltExercise01.executor&quot;: &quot;Run&quot;,
-    &quot;Python.BuiltExercise02.executor&quot;: &quot;Run&quot;,
-    &quot;Python.BuiltExercise03.executor&quot;: &quot;Run&quot;,
-    &quot;Python.BuiltExercise04.executor&quot;: &quot;Run&quot;,
-    &quot;Python.CalcInCome.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ClassAccount.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ClassCircle.executor&quot;: &quot;Run&quot;,
-    &quot;Python.CoffeeSales.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ComprehensionExam01.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ComprehensionExam02.executor&quot;: &quot;Run&quot;,
-    &quot;Python.EnumerateTest.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ExcepTest01.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ExcepTest02.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ExcepTest03.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Exception01.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Exception02.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Exception03.executor&quot;: &quot;Run&quot;,
-    &quot;Python.FuncTest01.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HakjumIfCheck.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HasADosirak.executor&quot;: &quot;Run&quot;,
-    &quot;Python.InhePerson.executor&quot;: &quot;Run&quot;,
-    &quot;Python.InheSports.executor&quot;: &quot;Run&quot;,
-    &quot;Python.InputHumanInfo.executor&quot;: &quot;Run&quot;,
-    &quot;Python.InputSungjuk.executor&quot;: &quot;Run&quot;,
-    &quot;Python.MainTest01.executor&quot;: &quot;Run&quot;,
-    &quot;Python.MainTest02.executor&quot;: &quot;Run&quot;,
-    &quot;Python.MainTest03.executor&quot;: &quot;Run&quot;,
-    &quot;Python.MakeDictExam01.executor&quot;: &quot;Run&quot;,
-    &quot;Python.MakeDictExam02.executor&quot;: &quot;Run&quot;,
-    &quot;Python.MakeListExam02.executor&quot;: &quot;Run&quot;,
-    &quot;Python.MakeSetExam01.executor&quot;: &quot;Run&quot;,
-    &quot;Python.MakeTupleExam01.executor&quot;: &quot;Run&quot;,
-    &quot;Python.MathTest01.executor&quot;: &quot;Run&quot;,
-    &quot;Python.MyBreadList.executor&quot;: &quot;Run&quot;,
-    &quot;Python.MyPrint.executor&quot;: &quot;Run&quot;,
-    &quot;Python.MyTupleExam02.executor&quot;: &quot;Run&quot;,
-    &quot;Python.OsDirectory.executor&quot;: &quot;Run&quot;,
-    &quot;Python.OsTest01.executor&quot;: &quot;Run&quot;,
-    &quot;Python.PercentFormatting01.executor&quot;: &quot;Run&quot;,
-    &quot;Python.PercentFormatting02.executor&quot;: &quot;Run&quot;,
-    &quot;Python.PrintMe.executor&quot;: &quot;Run&quot;,
-    &quot;Python.RandomExam.executor&quot;: &quot;Run&quot;,
-    &quot;Python.RandomTest.executor&quot;: &quot;Run&quot;,
-    &quot;Python.SayHello.executor&quot;: &quot;Run&quot;,
-    &quot;Python.SomeBuiltIn01.executor&quot;: &quot;Run&quot;,
-    &quot;Python.SuccessFail.executor&quot;: &quot;Run&quot;,
-    &quot;Python.SungjukTest.executor&quot;: &quot;Run&quot;,
-    &quot;Python.WhileEvenOdd.executor&quot;: &quot;Run&quot;,
-    &quot;Python.appleCount, appleQty.executor&quot;: &quot;Run&quot;,
-    &quot;Python.for01.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/PythonProject/Basic/ch03_iterable&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.inline.completion&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.AddFunction.executor": "Run",
+    "Python.AdultCheck.executor": "Run",
+    "Python.BuiltExercise01.executor": "Run",
+    "Python.BuiltExercise02.executor": "Run",
+    "Python.BuiltExercise03.executor": "Run",
+    "Python.BuiltExercise04.executor": "Run",
+    "Python.CalcInCome.executor": "Run",
+    "Python.ClassAccount.executor": "Run",
+    "Python.ClassCircle.executor": "Run",
+    "Python.CoffeeSales.executor": "Run",
+    "Python.ComprehensionExam01.executor": "Run",
+    "Python.ComprehensionExam02.executor": "Run",
+    "Python.EnumerateTest.executor": "Run",
+    "Python.ExcepTest01.executor": "Run",
+    "Python.ExcepTest02.executor": "Run",
+    "Python.ExcepTest03.executor": "Run",
+    "Python.Exception01.executor": "Run",
+    "Python.Exception02.executor": "Run",
+    "Python.Exception03.executor": "Run",
+    "Python.FiieIoTest01.executor": "Run",
+    "Python.FiieIoTest02.executor": "Run",
+    "Python.FileIo01.executor": "Run",
+    "Python.FileIo02.executor": "Run",
+    "Python.FuncTest01.executor": "Run",
+    "Python.GetCoffeeInfo.executor": "Run",
+    "Python.HakjumIfCheck.executor": "Run",
+    "Python.HasADosirak.executor": "Run",
+    "Python.InhePerson.executor": "Run",
+    "Python.InheSports.executor": "Run",
+    "Python.InputHumanInfo.executor": "Run",
+    "Python.InputSungjuk.executor": "Run",
+    "Python.JumsuCheck00 (1).executor": "Run",
+    "Python.JumsuCheck02.executor": "Run",
+    "Python.MainTest01.executor": "Run",
+    "Python.MainTest02.executor": "Run",
+    "Python.MainTest03.executor": "Run",
+    "Python.MakeDictExam01.executor": "Run",
+    "Python.MakeDictExam02.executor": "Run",
+    "Python.MakeListExam02.executor": "Run",
+    "Python.MakeSetExam01.executor": "Run",
+    "Python.MakeTupleExam01.executor": "Run",
+    "Python.MathTest01.executor": "Run",
+    "Python.MyBreadList.executor": "Run",
+    "Python.MyPrint.executor": "Run",
+    "Python.MyTupleExam02.executor": "Run",
+    "Python.OsDirectory.executor": "Run",
+    "Python.OsTest01.executor": "Run",
+    "Python.PercentFormatting01.executor": "Run",
+    "Python.PercentFormatting02.executor": "Run",
+    "Python.PrintMe.executor": "Run",
+    "Python.RandomExam.executor": "Run",
+    "Python.RandomTest.executor": "Run",
+    "Python.SayHello.executor": "Run",
+    "Python.SomeBuiltIn01.executor": "Run",
+    "Python.SuccessFail.executor": "Run",
+    "Python.SungjukTest.executor": "Run",
+    "Python.WhileEvenOdd.executor": "Run",
+    "Python.appleCount, appleQty.executor": "Run",
+    "Python.for01.executor": "Run",
+    "Python.jumsuCheck02.executor": "Run",
+    "Python.memberData.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/PythonProject/Basic/ch03_iterable",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "editor.preferences.inline.completion",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\PythonProject\Basic\ch03_iterable" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.ExcepTest03">
-    <configuration name="ExcepTest01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.GetCoffeeInfo">
+    <configuration name="FiieIoTest02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Basic" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -138,12 +146,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch08_exception" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch09_file_io" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch08_exception/ExcepTest01.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch09_file_io/FiieIoTest02.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -152,7 +160,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ExcepTest02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="GetCoffeeInfo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Basic" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -161,12 +169,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch08_exception" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch09_file_io" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch08_exception/ExcepTest02.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch09_file_io/GetCoffeeInfo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -175,7 +183,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ExcepTest03" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="JumsuCheck00 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Basic" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -184,12 +192,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch08_exception" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch09_file_io" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch08_exception/ExcepTest03.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch09_file_io/JumsuCheck00.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -198,7 +206,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Exception02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="jumsuCheck02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Basic" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -207,12 +215,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch08_exception" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch09_file_io" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch08_exception/Exception02.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch09_file_io/jumsuCheck02.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -221,7 +229,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Exception03" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="memberData" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Basic" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -230,12 +238,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch08_exception" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch09_file_io" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch08_exception/Exception03.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch09_file_io/memberData.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -246,11 +254,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.ExcepTest03" />
-        <item itemvalue="Python.Exception03" />
-        <item itemvalue="Python.ExcepTest02" />
-        <item itemvalue="Python.Exception02" />
-        <item itemvalue="Python.ExcepTest01" />
+        <item itemvalue="Python.GetCoffeeInfo" />
+        <item itemvalue="Python.memberData" />
+        <item itemvalue="Python.jumsuCheck02" />
+        <item itemvalue="Python.FiieIoTest02" />
+        <item itemvalue="Python.JumsuCheck00 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -275,6 +283,8 @@
       <workItem from="1763684963732" duration="22553000" />
       <workItem from="1763943832066" duration="23581000" />
       <workItem from="1764030776529" duration="21773000" />
+      <workItem from="1764117001818" duration="2504000" />
+      <workItem from="1764119537899" duration="19728000" />
     </task>
     <task id="LOCAL-00001" summary="25.11.19">
       <option name="closed" value="true" />
@@ -308,7 +318,23 @@
       <option name="project" value="LOCAL" />
       <updated>1763976256066</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="25.11.24">
+      <option name="closed" value="true" />
+      <created>1764117012369</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1764117012369</updated>
+    </task>
+    <task id="LOCAL-00006" summary="25.11.24">
+      <option name="closed" value="true" />
+      <created>1764117021134</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1764117021134</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -323,7 +349,9 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Basic$MathTest01.coverage" NAME="MathTest01 Coverage Results" MODIFIED="1763956978487" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch06_package_module" />
+    <SUITE FILE_PATH="coverage/Basic$FileIo01.coverage" NAME="FileIo01 Coverage Results" MODIFIED="1764121080929" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch09_file_io" />
     <SUITE FILE_PATH="coverage/Basic$MyPrint.coverage" NAME="MyPrint Coverage Results" MODIFIED="1763520803851" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch01_variable_operator" />
+    <SUITE FILE_PATH="coverage/Basic$memberData.coverage" NAME="memberData Coverage Results" MODIFIED="1764139426761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch09_file_io" />
     <SUITE FILE_PATH="coverage/Basic$Exception03.coverage" NAME="Exception03 Coverage Results" MODIFIED="1764056455357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch08_exception" />
     <SUITE FILE_PATH="coverage/Basic$PrintMe.coverage" NAME="PrintMe Coverage Results" MODIFIED="1763521106323" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch01_variable_operator" />
     <SUITE FILE_PATH="coverage/Basic$InheSports.coverage" NAME="InheSports Coverage Results" MODIFIED="1764042441803" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch07_class" />
@@ -337,6 +365,7 @@
     <SUITE FILE_PATH="coverage/Basic$for01.coverage" NAME="for01 Coverage Results" MODIFIED="1763603679084" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch02_control_statement" />
     <SUITE FILE_PATH="coverage/Basic$InputHumanInfo.coverage" NAME="InputHumanInfo Coverage Results" MODIFIED="1763534814412" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch01_variable_operator" />
     <SUITE FILE_PATH="coverage/Basic$PercentFormatting02.coverage" NAME="PercentFormatting02 Coverage Results" MODIFIED="1763525461544" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch01_variable_operator" />
+    <SUITE FILE_PATH="coverage/Basic$JumsuCheck00__1_.coverage" NAME="JumsuCheck00 (1) Coverage Results" MODIFIED="1764129078990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch09_file_io" />
     <SUITE FILE_PATH="coverage/Basic$OsDirectory.coverage" NAME="OsDirectory Coverage Results" MODIFIED="1763965098076" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch06_package_module" />
     <SUITE FILE_PATH="coverage/Basic$SungjukTest.coverage" NAME="SungjukTest Coverage Results" MODIFIED="1763949674456" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch05_user_function" />
     <SUITE FILE_PATH="coverage/Basic$RandomTest.coverage" NAME="RandomTest Coverage Results" MODIFIED="1763970037868" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch06_package_module" />
@@ -344,10 +373,12 @@
     <SUITE FILE_PATH="coverage/Basic$MyTupleExam02.coverage" NAME="MyTupleExam02 Coverage Results" MODIFIED="1763618390208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch03_iterable" />
     <SUITE FILE_PATH="coverage/Basic$SomeBuiltIn01.coverage" NAME="SomeBuiltIn01 Coverage Results" MODIFIED="1763705147687" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch04_builtin_function" />
     <SUITE FILE_PATH="coverage/Basic$ClassCircle.coverage" NAME="ClassCircle Coverage Results" MODIFIED="1764033032920" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch07_class" />
+    <SUITE FILE_PATH="coverage/Basic$FiieIoTest01.coverage" NAME="FiieIoTest01 Coverage Results" MODIFIED="1764122271354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch09_file_io" />
     <SUITE FILE_PATH="coverage/Basic$CalcInCome.coverage" NAME="CalcInCome Coverage Results" MODIFIED="1763600697756" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch02_control_statement" />
     <SUITE FILE_PATH="coverage/Basic$BuiltExercise03.coverage" NAME="BuiltExercise03 Coverage Results" MODIFIED="1763711978001" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch04_builtin_function" />
     <SUITE FILE_PATH="coverage/Basic$MyBreadList.coverage" NAME="MyBreadList Coverage Results" MODIFIED="1763617814041" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch03_iterable" />
     <SUITE FILE_PATH="coverage/Basic$ExcepTest03.coverage" NAME="ExcepTest03 Coverage Results" MODIFIED="1764058645380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch08_exception" />
+    <SUITE FILE_PATH="coverage/Basic$JumsuCheck02.coverage" NAME="JumsuCheck02 Coverage Results" MODIFIED="1764127867717" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch09_file_io" />
     <SUITE FILE_PATH="coverage/Basic$MakeSetExam01.coverage" NAME="MakeSetExam01 Coverage Results" MODIFIED="1763694250990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch03_iterable" />
     <SUITE FILE_PATH="coverage/Basic$MainTest03.coverage" NAME="MainTest03 Coverage Results" MODIFIED="1763956555932" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/somefolder/test" />
     <SUITE FILE_PATH="coverage/Basic$BuiltExercise01.coverage" NAME="BuiltExercise01 Coverage Results" MODIFIED="1763710945831" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch04_builtin_function" />
@@ -361,16 +392,20 @@
     <SUITE FILE_PATH="coverage/Basic$InhePerson.coverage" NAME="InhePerson Coverage Results" MODIFIED="1764036784394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch07_class" />
     <SUITE FILE_PATH="coverage/Basic$HasADosirak.coverage" NAME="HasADosirak Coverage Results" MODIFIED="1764042413108" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch07_class" />
     <SUITE FILE_PATH="coverage/Basic$AddFunction.coverage" NAME="AddFunction Coverage Results" MODIFIED="1763947049209" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch05_user_function" />
+    <SUITE FILE_PATH="coverage/Basic$GetCoffeeInfo.coverage" NAME="GetCoffeeInfo Coverage Results" MODIFIED="1764142946343" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch09_file_io" />
     <SUITE FILE_PATH="coverage/Basic$Exception02.coverage" NAME="Exception02 Coverage Results" MODIFIED="1764052696339" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch08_exception" />
     <SUITE FILE_PATH="coverage/Basic$FuncTest01.coverage" NAME="FuncTest01 Coverage Results" MODIFIED="1763945865847" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch05_user_function" />
     <SUITE FILE_PATH="coverage/Basic$HakjumIfCheck.coverage" NAME="HakjumIfCheck Coverage Results" MODIFIED="1763599962247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch02_control_statement" />
     <SUITE FILE_PATH="coverage/Basic$OsTest01.coverage" NAME="OsTest01 Coverage Results" MODIFIED="1763964465599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch06_package_module" />
+    <SUITE FILE_PATH="coverage/Basic$FiieIoTest02.coverage" NAME="FiieIoTest02 Coverage Results" MODIFIED="1764135277965" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch09_file_io" />
     <SUITE FILE_PATH="coverage/Basic$MainTest02.coverage" NAME="MainTest02 Coverage Results" MODIFIED="1763955476525" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/somefolder/test" />
+    <SUITE FILE_PATH="coverage/Basic$FileIo02.coverage" NAME="FileIo02 Coverage Results" MODIFIED="1764125719490" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch09_file_io" />
     <SUITE FILE_PATH="coverage/Basic$ExcepTest01.coverage" NAME="ExcepTest01 Coverage Results" MODIFIED="1764050019355" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch08_exception" />
     <SUITE FILE_PATH="coverage/Basic$MakeDictExam01.coverage" NAME="MakeDictExam01 Coverage Results" MODIFIED="1763687681385" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch03_iterable" />
     <SUITE FILE_PATH="coverage/Basic$ComprehensionExam02.coverage" NAME="ComprehensionExam02 Coverage Results" MODIFIED="1763703062714" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch03_iterable" />
     <SUITE FILE_PATH="coverage/Basic$MainTest01.coverage" NAME="MainTest01 Coverage Results" MODIFIED="1763955372079" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/somefolder/test" />
     <SUITE FILE_PATH="coverage/Basic$MakeDictExam02.coverage" NAME="MakeDictExam02 Coverage Results" MODIFIED="1763684974310" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch03_iterable" />
+    <SUITE FILE_PATH="coverage/Basic$jumsuCheck02.coverage" NAME="jumsuCheck02 Coverage Results" MODIFIED="1764136993613" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch09_file_io" />
     <SUITE FILE_PATH="coverage/Basic$SayHello.coverage" NAME="SayHello Coverage Results" MODIFIED="1763950284456" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch05_user_function" />
     <SUITE FILE_PATH="coverage/Basic$Exception01.coverage" NAME="Exception01 Coverage Results" MODIFIED="1764049882287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch08_exception" />
     <SUITE FILE_PATH="coverage/Basic$MakeListExam02.coverage" NAME="MakeListExam02 Coverage Results" MODIFIED="1763609485217" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch03_iterable" />
