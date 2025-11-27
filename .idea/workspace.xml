@@ -4,19 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3dfafd01-8b7e-4cdb-8a9c-2ebae2096f10" name="Changes" comment="25.11.24">
-      <change afterPath="$PROJECT_DIR$/ch09_file_io/FiieIoTest01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch09_file_io/FiieIoTest02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch09_file_io/FileIo01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch09_file_io/FileIo02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch09_file_io/GetCoffeeInfo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch09_file_io/JumsuCheck00.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch09_file_io/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch09_file_io/coffee.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch09_file_io/jumsu.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch09_file_io/jumsuCheck02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch09_file_io/memberData.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch09_file_io/memdata01.txt" afterDir="false" />
+    <list default="true" id="3dfafd01-8b7e-4cdb-8a9c-2ebae2096f10" name="Changes" comment="25.11.26">
+      <change afterPath="$PROJECT_DIR$/ch10_regex/RegExam01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch10_regex/RegExam02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch10_regex/RegExam03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch10_regex/RegExam04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch10_regex/RegExpr01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch10_regex/RegExpr02_Ex01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch10_regex/RegTest01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch10_regex/RegTest02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch10_regex/RegTest03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch10_regex/RegTest04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch10_regex/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -109,6 +108,16 @@
     "Python.PrintMe.executor": "Run",
     "Python.RandomExam.executor": "Run",
     "Python.RandomTest.executor": "Run",
+    "Python.RegExam01.executor": "Run",
+    "Python.RegExam02.executor": "Run",
+    "Python.RegExam03.executor": "Run",
+    "Python.RegExam04.executor": "Run",
+    "Python.RegExpr01.executor": "Run",
+    "Python.RegExpr02_Ex01.executor": "Run",
+    "Python.RegTest01.executor": "Run",
+    "Python.RegTest02.executor": "Run",
+    "Python.RegTest03.executor": "Run",
+    "Python.RegTest04.executor": "Run",
     "Python.SayHello.executor": "Run",
     "Python.SomeBuiltIn01.executor": "Run",
     "Python.SuccessFail.executor": "Run",
@@ -121,7 +130,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "D:/PythonProject/Basic/ch03_iterable",
+    "last_opened_file_path": "D:/PythonProject/Basic/ch10_regex",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -133,11 +142,12 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\PythonProject\Basic\ch10_regex" />
       <recent name="D:\PythonProject\Basic\ch03_iterable" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.GetCoffeeInfo">
-    <configuration name="FiieIoTest02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.RegTest04">
+    <configuration name="RegExam04" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Basic" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -146,12 +156,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch09_file_io" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch10_regex" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch09_file_io/FiieIoTest02.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch10_regex/RegExam04.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -160,7 +170,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="GetCoffeeInfo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="RegTest01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Basic" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -169,12 +179,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch09_file_io" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch10_regex" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch09_file_io/GetCoffeeInfo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch10_regex/RegTest01.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -183,7 +193,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="JumsuCheck00 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="RegTest02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Basic" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -192,12 +202,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch09_file_io" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch10_regex" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch09_file_io/JumsuCheck00.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch10_regex/RegTest02.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -206,7 +216,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="jumsuCheck02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="RegTest03" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Basic" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -215,12 +225,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch09_file_io" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch10_regex" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch09_file_io/jumsuCheck02.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch10_regex/RegTest03.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -229,7 +239,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="memberData" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="RegTest04" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Basic" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -238,12 +248,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch09_file_io" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch10_regex" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch09_file_io/memberData.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch10_regex/RegTest04.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -254,11 +264,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.GetCoffeeInfo" />
-        <item itemvalue="Python.memberData" />
-        <item itemvalue="Python.jumsuCheck02" />
-        <item itemvalue="Python.FiieIoTest02" />
-        <item itemvalue="Python.JumsuCheck00 (1)" />
+        <item itemvalue="Python.RegTest04" />
+        <item itemvalue="Python.RegTest03" />
+        <item itemvalue="Python.RegTest02" />
+        <item itemvalue="Python.RegTest01" />
+        <item itemvalue="Python.RegExam04" />
       </list>
     </recent_temporary>
   </component>
@@ -284,7 +294,8 @@
       <workItem from="1763943832066" duration="23581000" />
       <workItem from="1764030776529" duration="21773000" />
       <workItem from="1764117001818" duration="2504000" />
-      <workItem from="1764119537899" duration="19728000" />
+      <workItem from="1764119537899" duration="19744000" />
+      <workItem from="1764203210548" duration="22094000" />
     </task>
     <task id="LOCAL-00001" summary="25.11.19">
       <option name="closed" value="true" />
@@ -334,7 +345,15 @@
       <option name="project" value="LOCAL" />
       <updated>1764117021134</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="25.11.26">
+      <option name="closed" value="true" />
+      <created>1764148808597</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1764148808597</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -345,7 +364,8 @@
     <MESSAGE value="25.11.20" />
     <MESSAGE value="25.11.21" />
     <MESSAGE value="25.11.24" />
-    <option name="LAST_COMMIT_MESSAGE" value="25.11.24" />
+    <MESSAGE value="25.11.26" />
+    <option name="LAST_COMMIT_MESSAGE" value="25.11.26" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Basic$MathTest01.coverage" NAME="MathTest01 Coverage Results" MODIFIED="1763956978487" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch06_package_module" />
@@ -355,6 +375,8 @@
     <SUITE FILE_PATH="coverage/Basic$Exception03.coverage" NAME="Exception03 Coverage Results" MODIFIED="1764056455357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch08_exception" />
     <SUITE FILE_PATH="coverage/Basic$PrintMe.coverage" NAME="PrintMe Coverage Results" MODIFIED="1763521106323" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch01_variable_operator" />
     <SUITE FILE_PATH="coverage/Basic$InheSports.coverage" NAME="InheSports Coverage Results" MODIFIED="1764042441803" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch07_class" />
+    <SUITE FILE_PATH="coverage/Basic$RegExam03.coverage" NAME="RegExam03 Coverage Results" MODIFIED="1764221906582" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch10_regex" />
+    <SUITE FILE_PATH="coverage/Basic$RegTest02.coverage" NAME="RegTest02 Coverage Results" MODIFIED="1764225755552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch10_regex" />
     <SUITE FILE_PATH="coverage/Basic$ExcepTest02.coverage" NAME="ExcepTest02 Coverage Results" MODIFIED="1764053160934" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch08_exception" />
     <SUITE FILE_PATH="coverage/Basic$MakeTupleExam01.coverage" NAME="MakeTupleExam01 Coverage Results" MODIFIED="1763611271737" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch03_iterable" />
     <SUITE FILE_PATH="coverage/Basic$appleCount__appleQty.coverage" NAME="appleCount, appleQty Coverage Results" MODIFIED="1763532383039" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch01_variable_operator" />
@@ -362,11 +384,13 @@
     <SUITE FILE_PATH="coverage/Basic$ClassAccount.coverage" NAME="ClassAccount Coverage Results" MODIFIED="1764032626667" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch07_class" />
     <SUITE FILE_PATH="coverage/Basic$BuiltExercise02.coverage" NAME="BuiltExercise02 Coverage Results" MODIFIED="1763711276322" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch04_builtin_function" />
     <SUITE FILE_PATH="coverage/Basic$InputSungjuk.coverage" NAME="InputSungjuk Coverage Results" MODIFIED="1763535351676" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch01_variable_operator" />
+    <SUITE FILE_PATH="coverage/Basic$RegExam01.coverage" NAME="RegExam01 Coverage Results" MODIFIED="1764209893658" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch10_regex" />
     <SUITE FILE_PATH="coverage/Basic$for01.coverage" NAME="for01 Coverage Results" MODIFIED="1763603679084" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch02_control_statement" />
     <SUITE FILE_PATH="coverage/Basic$InputHumanInfo.coverage" NAME="InputHumanInfo Coverage Results" MODIFIED="1763534814412" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch01_variable_operator" />
-    <SUITE FILE_PATH="coverage/Basic$PercentFormatting02.coverage" NAME="PercentFormatting02 Coverage Results" MODIFIED="1763525461544" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch01_variable_operator" />
     <SUITE FILE_PATH="coverage/Basic$JumsuCheck00__1_.coverage" NAME="JumsuCheck00 (1) Coverage Results" MODIFIED="1764129078990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch09_file_io" />
+    <SUITE FILE_PATH="coverage/Basic$PercentFormatting02.coverage" NAME="PercentFormatting02 Coverage Results" MODIFIED="1763525461544" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch01_variable_operator" />
     <SUITE FILE_PATH="coverage/Basic$OsDirectory.coverage" NAME="OsDirectory Coverage Results" MODIFIED="1763965098076" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch06_package_module" />
+    <SUITE FILE_PATH="coverage/Basic$RegTest04.coverage" NAME="RegTest04 Coverage Results" MODIFIED="1764227232342" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch10_regex" />
     <SUITE FILE_PATH="coverage/Basic$SungjukTest.coverage" NAME="SungjukTest Coverage Results" MODIFIED="1763949674456" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch05_user_function" />
     <SUITE FILE_PATH="coverage/Basic$RandomTest.coverage" NAME="RandomTest Coverage Results" MODIFIED="1763970037868" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch06_package_module" />
     <SUITE FILE_PATH="coverage/Basic$AdultCheck.coverage" NAME="AdultCheck Coverage Results" MODIFIED="1763538350763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch02_control_statement" />
@@ -379,6 +403,7 @@
     <SUITE FILE_PATH="coverage/Basic$MyBreadList.coverage" NAME="MyBreadList Coverage Results" MODIFIED="1763617814041" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch03_iterable" />
     <SUITE FILE_PATH="coverage/Basic$ExcepTest03.coverage" NAME="ExcepTest03 Coverage Results" MODIFIED="1764058645380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch08_exception" />
     <SUITE FILE_PATH="coverage/Basic$JumsuCheck02.coverage" NAME="JumsuCheck02 Coverage Results" MODIFIED="1764127867717" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch09_file_io" />
+    <SUITE FILE_PATH="coverage/Basic$RegExam02.coverage" NAME="RegExam02 Coverage Results" MODIFIED="1764215580719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch10_regex" />
     <SUITE FILE_PATH="coverage/Basic$MakeSetExam01.coverage" NAME="MakeSetExam01 Coverage Results" MODIFIED="1763694250990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch03_iterable" />
     <SUITE FILE_PATH="coverage/Basic$MainTest03.coverage" NAME="MainTest03 Coverage Results" MODIFIED="1763956555932" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/somefolder/test" />
     <SUITE FILE_PATH="coverage/Basic$BuiltExercise01.coverage" NAME="BuiltExercise01 Coverage Results" MODIFIED="1763710945831" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch04_builtin_function" />
@@ -388,6 +413,7 @@
     <SUITE FILE_PATH="coverage/Basic$WhileEvenOdd.coverage" NAME="WhileEvenOdd Coverage Results" MODIFIED="1763697790745" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch02_control_statement" />
     <SUITE FILE_PATH="coverage/Basic$EnumerateTest.coverage" NAME="EnumerateTest Coverage Results" MODIFIED="1763710595078" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch04_builtin_function" />
     <SUITE FILE_PATH="coverage/Basic$PercentFormatting01.coverage" NAME="PercentFormatting01 Coverage Results" MODIFIED="1763524355594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch01_variable_operator" />
+    <SUITE FILE_PATH="coverage/Basic$RegTest03.coverage" NAME="RegTest03 Coverage Results" MODIFIED="1764226553012" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch10_regex" />
     <SUITE FILE_PATH="coverage/Basic$SuccessFail.coverage" NAME="SuccessFail Coverage Results" MODIFIED="1763598778064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch02_control_statement" />
     <SUITE FILE_PATH="coverage/Basic$InhePerson.coverage" NAME="InhePerson Coverage Results" MODIFIED="1764036784394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch07_class" />
     <SUITE FILE_PATH="coverage/Basic$HasADosirak.coverage" NAME="HasADosirak Coverage Results" MODIFIED="1764042413108" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch07_class" />
@@ -397,9 +423,12 @@
     <SUITE FILE_PATH="coverage/Basic$FuncTest01.coverage" NAME="FuncTest01 Coverage Results" MODIFIED="1763945865847" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch05_user_function" />
     <SUITE FILE_PATH="coverage/Basic$HakjumIfCheck.coverage" NAME="HakjumIfCheck Coverage Results" MODIFIED="1763599962247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch02_control_statement" />
     <SUITE FILE_PATH="coverage/Basic$OsTest01.coverage" NAME="OsTest01 Coverage Results" MODIFIED="1763964465599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch06_package_module" />
+    <SUITE FILE_PATH="coverage/Basic$RegExpr02_Ex01.coverage" NAME="RegExpr02_Ex01 Coverage Results" MODIFIED="1764215575494" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch10_regex" />
+    <SUITE FILE_PATH="coverage/Basic$RegExam04.coverage" NAME="RegExam04 Coverage Results" MODIFIED="1764223266451" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch10_regex" />
     <SUITE FILE_PATH="coverage/Basic$FiieIoTest02.coverage" NAME="FiieIoTest02 Coverage Results" MODIFIED="1764135277965" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch09_file_io" />
     <SUITE FILE_PATH="coverage/Basic$MainTest02.coverage" NAME="MainTest02 Coverage Results" MODIFIED="1763955476525" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/somefolder/test" />
     <SUITE FILE_PATH="coverage/Basic$FileIo02.coverage" NAME="FileIo02 Coverage Results" MODIFIED="1764125719490" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch09_file_io" />
+    <SUITE FILE_PATH="coverage/Basic$RegExpr01.coverage" NAME="RegExpr01 Coverage Results" MODIFIED="1764208733822" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch10_regex" />
     <SUITE FILE_PATH="coverage/Basic$ExcepTest01.coverage" NAME="ExcepTest01 Coverage Results" MODIFIED="1764050019355" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch08_exception" />
     <SUITE FILE_PATH="coverage/Basic$MakeDictExam01.coverage" NAME="MakeDictExam01 Coverage Results" MODIFIED="1763687681385" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch03_iterable" />
     <SUITE FILE_PATH="coverage/Basic$ComprehensionExam02.coverage" NAME="ComprehensionExam02 Coverage Results" MODIFIED="1763703062714" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch03_iterable" />
@@ -409,5 +438,6 @@
     <SUITE FILE_PATH="coverage/Basic$SayHello.coverage" NAME="SayHello Coverage Results" MODIFIED="1763950284456" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch05_user_function" />
     <SUITE FILE_PATH="coverage/Basic$Exception01.coverage" NAME="Exception01 Coverage Results" MODIFIED="1764049882287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch08_exception" />
     <SUITE FILE_PATH="coverage/Basic$MakeListExam02.coverage" NAME="MakeListExam02 Coverage Results" MODIFIED="1763609485217" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch03_iterable" />
+    <SUITE FILE_PATH="coverage/Basic$RegTest01.coverage" NAME="RegTest01 Coverage Results" MODIFIED="1764224888141" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch10_regex" />
   </component>
 </project>
