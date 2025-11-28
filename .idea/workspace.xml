@@ -4,27 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3dfafd01-8b7e-4cdb-8a9c-2ebae2096f10" name="Changes" comment="25.11.26">
-      <change afterPath="$PROJECT_DIR$/ch11_xml&amp;json/Car_Info.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch11_xml&amp;json/GetHumanInfo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch11_xml&amp;json/GetJsonData.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch11_xml&amp;json/GetJsonNested01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch11_xml&amp;json/GetJsonNested02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch11_xml&amp;json/HumanData01.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch11_xml&amp;json/HumanData02.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch11_xml&amp;json/XmlExam01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch11_xml&amp;json/XmlExam02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch11_xml&amp;json/XmlExam03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch11_xml&amp;json/XmlExam03.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch11_xml&amp;json/XmlTest01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch11_xml&amp;json/XmlTest02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch11_xml&amp;json/XmlTest03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch11_xml&amp;json/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch11_xml&amp;json/humans.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch11_xml&amp;json/jumsu.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch12_database/SqliteExam01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch12_database/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="3dfafd01-8b7e-4cdb-8a9c-2ebae2096f10" name="Changes" comment="25.11.28">
+      <change beforePath="$PROJECT_DIR$/ch12_database/SqliteExam01.py" beforeDir="false" afterPath="$PROJECT_DIR$/ch12_database/SqliteExam01.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -316,7 +297,7 @@
       <workItem from="1764117001818" duration="2504000" />
       <workItem from="1764119537899" duration="19744000" />
       <workItem from="1764203210548" duration="22094000" />
-      <workItem from="1764290196314" duration="24100000" />
+      <workItem from="1764290196314" duration="24908000" />
     </task>
     <task id="LOCAL-00001" summary="25.11.19">
       <option name="closed" value="true" />
@@ -374,7 +355,15 @@
       <option name="project" value="LOCAL" />
       <updated>1764148808597</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="25.11.28">
+      <option name="closed" value="true" />
+      <created>1764320143585</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1764320143585</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -386,7 +375,8 @@
     <MESSAGE value="25.11.21" />
     <MESSAGE value="25.11.24" />
     <MESSAGE value="25.11.26" />
-    <option name="LAST_COMMIT_MESSAGE" value="25.11.26" />
+    <MESSAGE value="25.11.28" />
+    <option name="LAST_COMMIT_MESSAGE" value="25.11.28" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Basic$MathTest01.coverage" NAME="MathTest01 Coverage Results" MODIFIED="1763956978487" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch06_package_module" />
