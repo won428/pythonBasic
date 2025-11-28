@@ -1,0 +1,71 @@
+{
+    "kim": {
+        "name": "김현식",
+        "age": 30,
+        "location": {
+            "address": {
+                "street": "퇴계로",
+                "city": "서울시",
+                "gu": "중구"
+            }
+        },
+        "contact": {
+            "mobile": "010-1234-5678",
+            "email": "kim@example.com"
+        },
+        "job": {
+            "title": "개발자",
+            "company": {
+                "name": "Tech Corp",
+                "location": "서울 강남구"
+            }
+        },
+        "skills": ["Python", "Django", "Machine Learning"]
+    },
+    "sim": {
+        "name": "심수현",
+        "age": 25,
+        "location": {
+            "address": {
+                "street": "용강로",
+                "city": "서울시",
+                "gu": "마포구"
+            }
+        },
+        "contact": {
+            "mobile": "010-9999-8888",
+            "email": "sim@example.com"
+        },
+        "job": {
+            "title": "UI 디자이너",
+            "company": {
+                "name": "Design Studio",
+                "location": "서울 마포구"
+            }
+        },
+        "skills": ["Photoshop", "Figma", "Illustrator"]
+    },
+    "park": {
+        "name": "박지현",
+        "age": 28,
+        "location": {
+            "address": {
+                "street": "신수로",
+                "city": "서울시",
+                "gu": "서대문구"
+            }
+        },
+        "contact": {
+            "mobile": "010-5555-4444",
+            "email": "park@example.com"
+        },
+        "job": {
+            "title": "데이터 분석가",
+            "company": {
+                "name": "Data Insight",
+                "location": "서울 성동구"
+            }
+        },
+        "skills": ["Python", "Pandas", "SQL"]
+    }
+}

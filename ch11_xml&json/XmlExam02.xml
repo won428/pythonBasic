@@ -1,0 +1,14 @@
+<members>
+	<member id="kim" phone="01011112222" email="hello@naver.com">
+		<name>김철수</name>
+		<age>30</age>
+		<gender>남자</gender>
+		<address>마포구 공덕동</address>
+	</member>
+	<member id="park" phone="01033334444" email="world@daum.net">
+		<name>박영희</name>
+		<age>20</age>
+		<gender>여자</gender>
+		<address>동대문구 휘경동</address>
+	</member>
+</members>

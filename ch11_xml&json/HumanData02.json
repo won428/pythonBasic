@@ -1,0 +1,54 @@
+{
+    "americano": {
+        "basic": {
+            "name": "아메리카노",
+            "origin": "콜롬비아",
+            "roast": "Medium Roast"
+        },
+        "recipe": {
+            "water": "120ml",
+            "espresso_shot": 1
+        },
+        "store": {
+            "brand": "Coffee Bean",
+            "branch": "강남점",
+            "last_brewed": "2025-11-28 10:30:00",
+            "status": "available"
+        }
+    },
+    "latte": {
+        "basic": {
+            "name": "카페라떼",
+            "origin": "브라질",
+            "roast": "Light Roast"
+        },
+        "recipe": {
+            "milk": "100ml",
+            "espresso_shot": 1
+        },
+        "store": {
+            "brand": "Starbucks",
+            "branch": "역삼역점",
+            "last_brewed": "2025-11-28 09:20:00",
+            "status": "out_of_stock"
+        }
+    },
+    "mocha": {
+        "basic": {
+            "name": "카페모카",
+            "origin": "에티오피아",
+            "roast": "Dark Roast"
+        },
+        "recipe": {
+            "milk": "80ml",
+            "espresso_shot": 1,
+            "chocolate": "20g"
+        },
+        "store": {
+            "brand": "Ediya Coffee",
+            "branch": "서초점",
+            "last_brewed": "2025-11-28 12:05:00",
+            "status": "available"
+        }
+    }
+}

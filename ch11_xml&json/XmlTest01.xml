@@ -1,0 +1,7 @@
+<student address="상수동" birth="19951225">
+	<name>김대호</name>
+	<age>20</age>
+	<gender>남자</gender>
+	<grade>A</grade>
+	<university>서강대</university>
+</student>
