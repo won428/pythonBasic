@@ -5,7 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3dfafd01-8b7e-4cdb-8a9c-2ebae2096f10" name="Changes" comment="25.11.28">
-      <change beforePath="$PROJECT_DIR$/ch12_database/SqliteExam01.py" beforeDir="false" afterPath="$PROJECT_DIR$/ch12_database/SqliteExam01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch12_database/SqliteExam02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch12_database/SqliteExam03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch12_database/sungjuk.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch13_pandas/Chap01.Series.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch13_pandas/MiniTest.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch13_pandas/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch12_database/student.db" beforeDir="false" afterPath="$PROJECT_DIR$/ch12_database/student.db" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +23,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="Jupyter Notebook" />
       </list>
     </option>
   </component>
@@ -114,6 +122,8 @@
     "Python.SayHello.executor": "Run",
     "Python.SomeBuiltIn01.executor": "Run",
     "Python.SqliteExam01.executor": "Run",
+    "Python.SqliteExam02.executor": "Run",
+    "Python.SqliteExam03.executor": "Run",
     "Python.SuccessFail.executor": "Run",
     "Python.SungjukTest.executor": "Run",
     "Python.WhileEvenOdd.executor": "Run",
@@ -130,70 +140,25 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "D:/PythonProject/Basic/ch11_xml&json",
+    "last_opened_file_path": "D:/PythonProject/Basic/ch12_database",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "editor.preferences.inline.completion",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\PythonProject\Basic\ch12_database" />
       <recent name="D:\PythonProject\Basic\ch11_xml&amp;json" />
       <recent name="D:\PythonProject\Basic\ch10_regex" />
       <recent name="D:\PythonProject\Basic\ch03_iterable" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.SqliteExam01">
-    <configuration name="GetHumanInfo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Basic" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch11_xml&amp;json" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch11_xml&amp;json/GetHumanInfo.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="GetJsonData" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Basic" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch11_xml&amp;json" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch11_xml&amp;json/GetJsonData.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.SqliteExam03">
     <configuration name="GetJsonNested01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Basic" />
       <option name="ENV_FILES" value="" />
@@ -263,13 +228,59 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="SqliteExam02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Basic" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch12_database" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch12_database/SqliteExam02.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="SqliteExam03" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Basic" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch12_database" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch12_database/SqliteExam03.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.SqliteExam03" />
+        <item itemvalue="Python.SqliteExam02" />
         <item itemvalue="Python.SqliteExam01" />
         <item itemvalue="Python.GetJsonNested02" />
         <item itemvalue="Python.GetJsonNested01" />
-        <item itemvalue="Python.GetHumanInfo" />
-        <item itemvalue="Python.GetJsonData" />
       </list>
     </recent_temporary>
   </component>
@@ -297,7 +308,8 @@
       <workItem from="1764117001818" duration="2504000" />
       <workItem from="1764119537899" duration="19744000" />
       <workItem from="1764203210548" duration="22094000" />
-      <workItem from="1764290196314" duration="24908000" />
+      <workItem from="1764290196314" duration="24918000" />
+      <workItem from="1764549287610" duration="23346000" />
     </task>
     <task id="LOCAL-00001" summary="25.11.19">
       <option name="closed" value="true" />
@@ -363,7 +375,15 @@
       <option name="project" value="LOCAL" />
       <updated>1764320143585</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="25.11.28">
+      <option name="closed" value="true" />
+      <created>1764321961845</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1764321961845</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -397,6 +417,7 @@
     <SUITE FILE_PATH="coverage/Basic$BuiltExercise02.coverage" NAME="BuiltExercise02 Coverage Results" MODIFIED="1763711276322" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch04_builtin_function" />
     <SUITE FILE_PATH="coverage/Basic$XmlTest02.coverage" NAME="XmlTest02 Coverage Results" MODIFIED="1764296341743" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch11_xml&amp;json" />
     <SUITE FILE_PATH="coverage/Basic$XmlExam03.coverage" NAME="XmlExam03 Coverage Results" MODIFIED="1764298971082" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch11_xml&amp;json" />
+    <SUITE FILE_PATH="coverage/Basic$SqliteExam02.coverage" NAME="SqliteExam02 Coverage Results" MODIFIED="1764553897464" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch12_database" />
     <SUITE FILE_PATH="coverage/Basic$InputSungjuk.coverage" NAME="InputSungjuk Coverage Results" MODIFIED="1763535351676" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch01_variable_operator" />
     <SUITE FILE_PATH="coverage/Basic$RegExam01.coverage" NAME="RegExam01 Coverage Results" MODIFIED="1764209893658" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch10_regex" />
     <SUITE FILE_PATH="coverage/Basic$for01.coverage" NAME="for01 Coverage Results" MODIFIED="1763603679084" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch02_control_statement" />
@@ -451,6 +472,7 @@
     <SUITE FILE_PATH="coverage/Basic$ExcepTest01.coverage" NAME="ExcepTest01 Coverage Results" MODIFIED="1764050019355" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch08_exception" />
     <SUITE FILE_PATH="coverage/Basic$MakeDictExam01.coverage" NAME="MakeDictExam01 Coverage Results" MODIFIED="1763687681385" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch03_iterable" />
     <SUITE FILE_PATH="coverage/Basic$GetJsonData.coverage" NAME="GetJsonData Coverage Results" MODIFIED="1764302236920" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch11_xml&amp;json" />
+    <SUITE FILE_PATH="coverage/Basic$SqliteExam03.coverage" NAME="SqliteExam03 Coverage Results" MODIFIED="1764557636689" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch12_database" />
     <SUITE FILE_PATH="coverage/Basic$XmlTest03.coverage" NAME="XmlTest03 Coverage Results" MODIFIED="1764299929242" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch11_xml&amp;json" />
     <SUITE FILE_PATH="coverage/Basic$XmlExam01.coverage" NAME="XmlExam01 Coverage Results" MODIFIED="1764292307308" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch11_xml&amp;json" />
     <SUITE FILE_PATH="coverage/Basic$ComprehensionExam02.coverage" NAME="ComprehensionExam02 Coverage Results" MODIFIED="1763703062714" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch03_iterable" />
