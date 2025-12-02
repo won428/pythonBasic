@@ -4,15 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3dfafd01-8b7e-4cdb-8a9c-2ebae2096f10" name="Changes" comment="25.11.28">
-      <change afterPath="$PROJECT_DIR$/ch12_database/SqliteExam02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch12_database/SqliteExam03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch12_database/sungjuk.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch13_pandas/Chap01.Series.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch13_pandas/MiniTest.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch13_pandas/__init__.py" afterDir="false" />
+    <list default="true" id="3dfafd01-8b7e-4cdb-8a9c-2ebae2096f10" name="Changes" comment="25.12.01">
+      <change afterPath="$PROJECT_DIR$/ch13_pandas/Chap02.DataFrame.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch12_database/student.db" beforeDir="false" afterPath="$PROJECT_DIR$/ch12_database/student.db" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,106 +44,106 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.AddFunction.executor": "Run",
-    "Python.AdultCheck.executor": "Run",
-    "Python.BuiltExercise01.executor": "Run",
-    "Python.BuiltExercise02.executor": "Run",
-    "Python.BuiltExercise03.executor": "Run",
-    "Python.BuiltExercise04.executor": "Run",
-    "Python.CalcInCome.executor": "Run",
-    "Python.ClassAccount.executor": "Run",
-    "Python.ClassCircle.executor": "Run",
-    "Python.CoffeeSales.executor": "Run",
-    "Python.ComprehensionExam01.executor": "Run",
-    "Python.ComprehensionExam02.executor": "Run",
-    "Python.EnumerateTest.executor": "Run",
-    "Python.ExcepTest01.executor": "Run",
-    "Python.ExcepTest02.executor": "Run",
-    "Python.ExcepTest03.executor": "Run",
-    "Python.Exception01.executor": "Run",
-    "Python.Exception02.executor": "Run",
-    "Python.Exception03.executor": "Run",
-    "Python.FiieIoTest01.executor": "Run",
-    "Python.FiieIoTest02.executor": "Run",
-    "Python.FileIo01.executor": "Run",
-    "Python.FileIo02.executor": "Run",
-    "Python.FuncTest01.executor": "Run",
-    "Python.GetCoffeeInfo.executor": "Run",
-    "Python.GetHumanInfo.executor": "Run",
-    "Python.GetJsonData.executor": "Run",
-    "Python.GetJsonNested01.executor": "Run",
-    "Python.GetJsonNested02.executor": "Run",
-    "Python.HakjumIfCheck.executor": "Run",
-    "Python.HasADosirak.executor": "Run",
-    "Python.InhePerson.executor": "Run",
-    "Python.InheSports.executor": "Run",
-    "Python.InputHumanInfo.executor": "Run",
-    "Python.InputSungjuk.executor": "Run",
-    "Python.JumsuCheck00 (1).executor": "Run",
-    "Python.JumsuCheck02.executor": "Run",
-    "Python.MainTest01.executor": "Run",
-    "Python.MainTest02.executor": "Run",
-    "Python.MainTest03.executor": "Run",
-    "Python.MakeDictExam01.executor": "Run",
-    "Python.MakeDictExam02.executor": "Run",
-    "Python.MakeListExam02.executor": "Run",
-    "Python.MakeSetExam01.executor": "Run",
-    "Python.MakeTupleExam01.executor": "Run",
-    "Python.MathTest01.executor": "Run",
-    "Python.MyBreadList.executor": "Run",
-    "Python.MyPrint.executor": "Run",
-    "Python.MyTupleExam02.executor": "Run",
-    "Python.OsDirectory.executor": "Run",
-    "Python.OsTest01.executor": "Run",
-    "Python.PercentFormatting01.executor": "Run",
-    "Python.PercentFormatting02.executor": "Run",
-    "Python.PrintMe.executor": "Run",
-    "Python.RandomExam.executor": "Run",
-    "Python.RandomTest.executor": "Run",
-    "Python.RegExam01.executor": "Run",
-    "Python.RegExam02.executor": "Run",
-    "Python.RegExam03.executor": "Run",
-    "Python.RegExam04.executor": "Run",
-    "Python.RegExpr01.executor": "Run",
-    "Python.RegExpr02_Ex01.executor": "Run",
-    "Python.RegTest01.executor": "Run",
-    "Python.RegTest02.executor": "Run",
-    "Python.RegTest03.executor": "Run",
-    "Python.RegTest04.executor": "Run",
-    "Python.SayHello.executor": "Run",
-    "Python.SomeBuiltIn01.executor": "Run",
-    "Python.SqliteExam01.executor": "Run",
-    "Python.SqliteExam02.executor": "Run",
-    "Python.SqliteExam03.executor": "Run",
-    "Python.SuccessFail.executor": "Run",
-    "Python.SungjukTest.executor": "Run",
-    "Python.WhileEvenOdd.executor": "Run",
-    "Python.XmlExam01.executor": "Run",
-    "Python.XmlExam02.executor": "Run",
-    "Python.XmlExam03.executor": "Run",
-    "Python.XmlTest01.executor": "Run",
-    "Python.XmlTest02.executor": "Run",
-    "Python.XmlTest03.executor": "Run",
-    "Python.appleCount, appleQty.executor": "Run",
-    "Python.for01.executor": "Run",
-    "Python.jumsuCheck02.executor": "Run",
-    "Python.memberData.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "D:/PythonProject/Basic/ch12_database",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.AddFunction.executor&quot;: &quot;Run&quot;,
+    &quot;Python.AdultCheck.executor&quot;: &quot;Run&quot;,
+    &quot;Python.BuiltExercise01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.BuiltExercise02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.BuiltExercise03.executor&quot;: &quot;Run&quot;,
+    &quot;Python.BuiltExercise04.executor&quot;: &quot;Run&quot;,
+    &quot;Python.CalcInCome.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ClassAccount.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ClassCircle.executor&quot;: &quot;Run&quot;,
+    &quot;Python.CoffeeSales.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ComprehensionExam01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ComprehensionExam02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.EnumerateTest.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ExcepTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ExcepTest02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ExcepTest03.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Exception01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Exception02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Exception03.executor&quot;: &quot;Run&quot;,
+    &quot;Python.FiieIoTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.FiieIoTest02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.FileIo01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.FileIo02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.FuncTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.GetCoffeeInfo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.GetHumanInfo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.GetJsonData.executor&quot;: &quot;Run&quot;,
+    &quot;Python.GetJsonNested01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.GetJsonNested02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HakjumIfCheck.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HasADosirak.executor&quot;: &quot;Run&quot;,
+    &quot;Python.InhePerson.executor&quot;: &quot;Run&quot;,
+    &quot;Python.InheSports.executor&quot;: &quot;Run&quot;,
+    &quot;Python.InputHumanInfo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.InputSungjuk.executor&quot;: &quot;Run&quot;,
+    &quot;Python.JumsuCheck00 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.JumsuCheck02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.MainTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.MainTest02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.MainTest03.executor&quot;: &quot;Run&quot;,
+    &quot;Python.MakeDictExam01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.MakeDictExam02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.MakeListExam02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.MakeSetExam01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.MakeTupleExam01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.MathTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.MyBreadList.executor&quot;: &quot;Run&quot;,
+    &quot;Python.MyPrint.executor&quot;: &quot;Run&quot;,
+    &quot;Python.MyTupleExam02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.OsDirectory.executor&quot;: &quot;Run&quot;,
+    &quot;Python.OsTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.PercentFormatting01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.PercentFormatting02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.PrintMe.executor&quot;: &quot;Run&quot;,
+    &quot;Python.RandomExam.executor&quot;: &quot;Run&quot;,
+    &quot;Python.RandomTest.executor&quot;: &quot;Run&quot;,
+    &quot;Python.RegExam01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.RegExam02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.RegExam03.executor&quot;: &quot;Run&quot;,
+    &quot;Python.RegExam04.executor&quot;: &quot;Run&quot;,
+    &quot;Python.RegExpr01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.RegExpr02_Ex01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.RegTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.RegTest02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.RegTest03.executor&quot;: &quot;Run&quot;,
+    &quot;Python.RegTest04.executor&quot;: &quot;Run&quot;,
+    &quot;Python.SayHello.executor&quot;: &quot;Run&quot;,
+    &quot;Python.SomeBuiltIn01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.SqliteExam01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.SqliteExam02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.SqliteExam03.executor&quot;: &quot;Run&quot;,
+    &quot;Python.SuccessFail.executor&quot;: &quot;Run&quot;,
+    &quot;Python.SungjukTest.executor&quot;: &quot;Run&quot;,
+    &quot;Python.WhileEvenOdd.executor&quot;: &quot;Run&quot;,
+    &quot;Python.XmlExam01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.XmlExam02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.XmlExam03.executor&quot;: &quot;Run&quot;,
+    &quot;Python.XmlTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.XmlTest02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.XmlTest03.executor&quot;: &quot;Run&quot;,
+    &quot;Python.appleCount, appleQty.executor&quot;: &quot;Run&quot;,
+    &quot;Python.for01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.jumsuCheck02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.memberData.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/PythonProject/Basic/ch12_database&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\PythonProject\Basic\ch12_database" />
@@ -309,7 +303,8 @@
       <workItem from="1764119537899" duration="19744000" />
       <workItem from="1764203210548" duration="22094000" />
       <workItem from="1764290196314" duration="24918000" />
-      <workItem from="1764549287610" duration="23346000" />
+      <workItem from="1764549287610" duration="23783000" />
+      <workItem from="1764635323955" duration="25460000" />
     </task>
     <task id="LOCAL-00001" summary="25.11.19">
       <option name="closed" value="true" />
@@ -383,7 +378,15 @@
       <option name="project" value="LOCAL" />
       <updated>1764321961845</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="25.12.01">
+      <option name="closed" value="true" />
+      <created>1764580890520</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1764580890520</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -396,7 +399,8 @@
     <MESSAGE value="25.11.24" />
     <MESSAGE value="25.11.26" />
     <MESSAGE value="25.11.28" />
-    <option name="LAST_COMMIT_MESSAGE" value="25.11.28" />
+    <MESSAGE value="25.12.01" />
+    <option name="LAST_COMMIT_MESSAGE" value="25.12.01" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Basic$MathTest01.coverage" NAME="MathTest01 Coverage Results" MODIFIED="1763956978487" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch06_package_module" />
