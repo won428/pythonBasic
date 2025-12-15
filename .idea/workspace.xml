@@ -4,23 +4,43 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3dfafd01-8b7e-4cdb-8a9c-2ebae2096f10" name="Changes" comment="25.12.08">
-      <change afterPath="$PROJECT_DIR$/ch15_ml/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch15_ml/spam_mail_check.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch15_ml/speechTextMining01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch15_ml/svm_titanic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataIn/Wholesale customers data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataIn/alice_color.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataIn/checkedMail.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataIn/mailList.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataIn/stopword.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataIn/surgeryTest.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataIn/user_dic.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataIn/word_list.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataIn/문재인 대통령 퇴임 연설.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataIn/윤석열 제20대 대통령 취임사.txt" afterDir="false" />
+    <list default="true" id="3dfafd01-8b7e-4cdb-8a9c-2ebae2096f10" name="Changes" comment="25.12.11">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch14_crawling/coffeeStoreProduct.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/ch14_crawling/coffeeStoreProduct.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch15_ml/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch15_ml/spam_mail_check.py" beforeDir="false" afterPath="$PROJECT_DIR$/ch15_ml/spam_mail_check.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch15_ml/speechTextMining01.py" beforeDir="false" afterPath="$PROJECT_DIR$/ch15_ml/speechTextMining01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch15_ml/svm_titanic.py" beforeDir="false" afterPath="$PROJECT_DIR$/ch15_ml/svm_titanic.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataIn/alice_word_cloud.png" beforeDir="false" afterPath="$PROJECT_DIR$/dataIn/alice_word_cloud.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataIn/result01.csv" beforeDir="false" afterPath="$PROJECT_DIR$/dataIn/result01.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataOut/alice_word_cloud.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataOut/bar_chart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataOut/coffee_02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataOut/coffee_03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataOut/coffee_04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataOut/coffee_05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataOut/coffee_06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataOut/coffee_list.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataOut/coffee_map.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataOut/coffee_map2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataOut/coffee_map_03.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataOut/ediya_file.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataOut/first_detail_page.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataOut/hollys_file.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataOut/hollys_multiple_service_stores.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataOut/hollys_no_service_stores.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataOut/seoul_library_newbooks.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataOut/starbucks_beverage.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataOut/starbucks_beverage_images.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataOut/starbucks_file.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataOut/svm_titanic_image_01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataOut/svm_titanic_roc_curve.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataOut/test.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataOut/titanic_svm_predict.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/somefolder/character/CharacterModule.py" beforeDir="false" afterPath="$PROJECT_DIR$/somefolder/character/CharacterModule.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/somefolder/mymath/MathModule.py" beforeDir="false" afterPath="$PROJECT_DIR$/somefolder/mymath/MathModule.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/somefolder/sansu/SansuModule.py" beforeDir="false" afterPath="$PROJECT_DIR$/somefolder/sansu/SansuModule.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/somefolder/test/MainTest01.py" beforeDir="false" afterPath="$PROJECT_DIR$/somefolder/test/MainTest01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/somefolder/test/MainTest03.py" beforeDir="false" afterPath="$PROJECT_DIR$/somefolder/test/MainTest03.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,111 +78,111 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.AddFunction.executor": "Run",
-    "Python.AdultCheck.executor": "Run",
-    "Python.BuiltExercise01.executor": "Run",
-    "Python.BuiltExercise02.executor": "Run",
-    "Python.BuiltExercise03.executor": "Run",
-    "Python.BuiltExercise04.executor": "Run",
-    "Python.CalcInCome.executor": "Run",
-    "Python.ClassAccount.executor": "Run",
-    "Python.ClassCircle.executor": "Run",
-    "Python.CoffeeSales.executor": "Run",
-    "Python.ComprehensionExam01.executor": "Run",
-    "Python.ComprehensionExam02.executor": "Run",
-    "Python.EnumerateTest.executor": "Run",
-    "Python.ExcepTest01.executor": "Run",
-    "Python.ExcepTest02.executor": "Run",
-    "Python.ExcepTest03.executor": "Run",
-    "Python.Exception01.executor": "Run",
-    "Python.Exception02.executor": "Run",
-    "Python.Exception03.executor": "Run",
-    "Python.FiieIoTest01.executor": "Run",
-    "Python.FiieIoTest02.executor": "Run",
-    "Python.FileIo01.executor": "Run",
-    "Python.FileIo02.executor": "Run",
-    "Python.FuncTest01.executor": "Run",
-    "Python.GetCoffeeInfo.executor": "Run",
-    "Python.GetHumanInfo.executor": "Run",
-    "Python.GetJsonData.executor": "Run",
-    "Python.GetJsonNested01.executor": "Run",
-    "Python.GetJsonNested02.executor": "Run",
-    "Python.HakjumIfCheck.executor": "Run",
-    "Python.HasADosirak.executor": "Run",
-    "Python.InhePerson.executor": "Run",
-    "Python.InheSports.executor": "Run",
-    "Python.InputHumanInfo.executor": "Run",
-    "Python.InputSungjuk.executor": "Run",
-    "Python.JumsuCheck00 (1).executor": "Run",
-    "Python.JumsuCheck02.executor": "Run",
-    "Python.MainTest01.executor": "Run",
-    "Python.MainTest02.executor": "Run",
-    "Python.MainTest03.executor": "Run",
-    "Python.MakeDictExam01.executor": "Run",
-    "Python.MakeDictExam02.executor": "Run",
-    "Python.MakeListExam02.executor": "Run",
-    "Python.MakeSetExam01.executor": "Run",
-    "Python.MakeTupleExam01.executor": "Run",
-    "Python.MathTest01.executor": "Run",
-    "Python.MyBreadList.executor": "Run",
-    "Python.MyPrint.executor": "Run",
-    "Python.MyTupleExam02.executor": "Run",
-    "Python.OsDirectory.executor": "Run",
-    "Python.OsTest01.executor": "Run",
-    "Python.PercentFormatting01.executor": "Run",
-    "Python.PercentFormatting02.executor": "Run",
-    "Python.PrintMe.executor": "Run",
-    "Python.RandomExam.executor": "Run",
-    "Python.RandomTest.executor": "Run",
-    "Python.RegExam01.executor": "Run",
-    "Python.RegExam02.executor": "Run",
-    "Python.RegExam03.executor": "Run",
-    "Python.RegExam04.executor": "Run",
-    "Python.RegExpr01.executor": "Run",
-    "Python.RegExpr02_Ex01.executor": "Run",
-    "Python.RegTest01.executor": "Run",
-    "Python.RegTest02.executor": "Run",
-    "Python.RegTest03.executor": "Run",
-    "Python.RegTest04.executor": "Run",
-    "Python.SayHello.executor": "Run",
-    "Python.SeoulLibNewArrivallInfo.executor": "Run",
-    "Python.SomeBuiltIn01.executor": "Run",
-    "Python.SqliteExam01.executor": "Run",
-    "Python.SqliteExam02.executor": "Run",
-    "Python.SqliteExam03.executor": "Run",
-    "Python.SuccessFail.executor": "Run",
-    "Python.SungjukTest.executor": "Run",
-    "Python.WhileEvenOdd.executor": "Run",
-    "Python.XmlExam01.executor": "Run",
-    "Python.XmlExam02.executor": "Run",
-    "Python.XmlExam03.executor": "Run",
-    "Python.XmlTest01.executor": "Run",
-    "Python.XmlTest02.executor": "Run",
-    "Python.XmlTest03.executor": "Run",
-    "Python.appleCount, appleQty.executor": "Run",
-    "Python.for01.executor": "Run",
-    "Python.jumsuCheck02.executor": "Run",
-    "Python.memberData.executor": "Run",
-    "Python.spam_mail_check.executor": "Run",
-    "Python.speechTextMining01.executor": "Run",
-    "Python.svm_titanic.executor": "Run",
-    "Python.test.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "D:/PythonProject/Basic/dataIn",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.AddFunction.executor&quot;: &quot;Run&quot;,
+    &quot;Python.AdultCheck.executor&quot;: &quot;Run&quot;,
+    &quot;Python.BuiltExercise01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.BuiltExercise02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.BuiltExercise03.executor&quot;: &quot;Run&quot;,
+    &quot;Python.BuiltExercise04.executor&quot;: &quot;Run&quot;,
+    &quot;Python.CalcInCome.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ClassAccount.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ClassCircle.executor&quot;: &quot;Run&quot;,
+    &quot;Python.CoffeeSales.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ComprehensionExam01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ComprehensionExam02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.EnumerateTest.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ExcepTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ExcepTest02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ExcepTest03.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Exception01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Exception02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Exception03.executor&quot;: &quot;Run&quot;,
+    &quot;Python.FiieIoTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.FiieIoTest02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.FileIo01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.FileIo02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.FuncTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.GetCoffeeInfo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.GetHumanInfo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.GetJsonData.executor&quot;: &quot;Run&quot;,
+    &quot;Python.GetJsonNested01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.GetJsonNested02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HakjumIfCheck.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HasADosirak.executor&quot;: &quot;Run&quot;,
+    &quot;Python.InhePerson.executor&quot;: &quot;Run&quot;,
+    &quot;Python.InheSports.executor&quot;: &quot;Run&quot;,
+    &quot;Python.InputHumanInfo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.InputSungjuk.executor&quot;: &quot;Run&quot;,
+    &quot;Python.JumsuCheck00 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.JumsuCheck02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.MainTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.MainTest02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.MainTest03.executor&quot;: &quot;Run&quot;,
+    &quot;Python.MakeDictExam01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.MakeDictExam02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.MakeListExam02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.MakeSetExam01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.MakeTupleExam01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.MathTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.MyBreadList.executor&quot;: &quot;Run&quot;,
+    &quot;Python.MyPrint.executor&quot;: &quot;Run&quot;,
+    &quot;Python.MyTupleExam02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.OsDirectory.executor&quot;: &quot;Run&quot;,
+    &quot;Python.OsTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.PercentFormatting01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.PercentFormatting02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.PrintMe.executor&quot;: &quot;Run&quot;,
+    &quot;Python.RandomExam.executor&quot;: &quot;Run&quot;,
+    &quot;Python.RandomTest.executor&quot;: &quot;Run&quot;,
+    &quot;Python.RegExam01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.RegExam02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.RegExam03.executor&quot;: &quot;Run&quot;,
+    &quot;Python.RegExam04.executor&quot;: &quot;Run&quot;,
+    &quot;Python.RegExpr01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.RegExpr02_Ex01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.RegTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.RegTest02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.RegTest03.executor&quot;: &quot;Run&quot;,
+    &quot;Python.RegTest04.executor&quot;: &quot;Run&quot;,
+    &quot;Python.SayHello.executor&quot;: &quot;Run&quot;,
+    &quot;Python.SeoulLibNewArrivallInfo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.SomeBuiltIn01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.SqliteExam01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.SqliteExam02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.SqliteExam03.executor&quot;: &quot;Run&quot;,
+    &quot;Python.SuccessFail.executor&quot;: &quot;Run&quot;,
+    &quot;Python.SungjukTest.executor&quot;: &quot;Run&quot;,
+    &quot;Python.WhileEvenOdd.executor&quot;: &quot;Run&quot;,
+    &quot;Python.XmlExam01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.XmlExam02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.XmlExam03.executor&quot;: &quot;Run&quot;,
+    &quot;Python.XmlTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.XmlTest02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.XmlTest03.executor&quot;: &quot;Run&quot;,
+    &quot;Python.appleCount, appleQty.executor&quot;: &quot;Run&quot;,
+    &quot;Python.for01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.jumsuCheck02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.memberData.executor&quot;: &quot;Run&quot;,
+    &quot;Python.spam_mail_check.executor&quot;: &quot;Run&quot;,
+    &quot;Python.speechTextMining01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.svm_titanic.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/PythonProject/Basic/dataIn&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\PythonProject\Basic\dataIn" />
@@ -331,7 +351,8 @@
       <workItem from="1765154194100" duration="23748000" />
       <workItem from="1765240308141" duration="623000" />
       <workItem from="1765240953179" duration="22280000" />
-      <workItem from="1765412792837" duration="24840000" />
+      <workItem from="1765412792837" duration="24854000" />
+      <workItem from="1765758656213" duration="44000" />
     </task>
     <task id="LOCAL-00001" summary="25.11.19">
       <option name="closed" value="true" />
@@ -461,7 +482,23 @@
       <option name="project" value="LOCAL" />
       <updated>1765271849823</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="25.12.11">
+      <option name="closed" value="true" />
+      <created>1765444857753</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1765444857753</updated>
+    </task>
+    <task id="LOCAL-00018" summary="25.12.11">
+      <option name="closed" value="true" />
+      <created>1765444863809</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1765444863809</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -480,7 +517,8 @@
     <MESSAGE value="25.12.04" />
     <MESSAGE value="25.12.05" />
     <MESSAGE value="25.12.08" />
-    <option name="LAST_COMMIT_MESSAGE" value="25.12.08" />
+    <MESSAGE value="25.12.11" />
+    <option name="LAST_COMMIT_MESSAGE" value="25.12.11" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Basic$MathTest01.coverage" NAME="MathTest01 Coverage Results" MODIFIED="1763956978487" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch06_package_module" />

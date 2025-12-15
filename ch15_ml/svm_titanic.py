@@ -1,15 +1,16 @@
 import pandas as pd
 import seaborn as sns
-
 import matplotlib.pyplot as plt
-plt.rc('font', family='MalGun Gothic')
+from sklearn.svm import SVC
+
+plt.rc('font', family='Malgun Gothic')
 plt.rcParams['axes.unicode_minus'] = False # 마이너스 기호 글자 깨짐 방지
 
 # metrics : 평가 지표
 from sklearn.metrics import confusion_matrix, classification_report, roc_curve, auc
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import StandardScaler
-from sklearn.svm import SVC
+
 
 dataOut = './../dataOut/'
 
@@ -131,16 +132,16 @@ csv_filename = dataOut + 'titanic_svm_predict.csv'
 result_df.to_csv(csv_filename, index=False, encoding='utf-8-sig')
 
 print('\n# 분류 모델 성능 평가')
-print('# confusion_matrix(실제정답데이터, 예측값')
+print('# confusion_matrix(실제정답데이터, 예측값)')
 svm_matrix = confusion_matrix(y_test, prediction)
 print(svm_matrix)
 
 print('\n# confusion_matrix 시각화')
-plt.figure(figsize=(8,6))
-sns.heatmap(svm_matrix, annot=True, cmap='Blues', fmt='g',
-            xticklabels=['사망','생존'],
-            yticklabels=['사망','생존']
-            )
+plt.figure(figsize=(8, 6))
+sns.heatmap(svm_matrix, annot=True, cmap='Blues', fmt='d',
+            xticklabels=['사망', '생존'],
+            yticklabels=['사망', '생존'])
+
 plt.title('Confusion Matrix')
 plt.ylabel('실제값')
 plt.xlabel('예측값')
@@ -153,13 +154,13 @@ print('\n# 분류 보고서(classification_report)')
 svm_report = classification_report(y_test, prediction)
 print(svm_report)
 
-# prediction_proba 함수는 각 클래스에 대한 확률 정보를 반환해 줍니다.
+# predict_proba 함수는 각 클래스에 대한 확률 정보를 반환해 줍니다.
 # 이 예시는 클래스 갯수 2개이므로 예를 들면 [0.35, 0.65]의 형식으로 반환해 줍니다.
 prediction_probability = model.predict_proba(x_test)
 print(prediction_probability[0:3])
 
 # 생존일 확률 정보만 따로 추출합니다.
-alive_probability = prediction_probability[:,1]
+alive_probability = prediction_probability[:, 1]
 
 # ROC 커브 그리기
 fpr, tpr, thresholds = roc_curve(y_test, alive_probability)
@@ -167,24 +168,17 @@ fpr, tpr, thresholds = roc_curve(y_test, alive_probability)
 roc_auc = auc(fpr, tpr)
 
 # ROC 커브 시각화
-plt.figure(figsize=(8,8))
+plt.figure(figsize=(8, 8))
 
-plt.plot(fpr, tpr, color='darkorange', lw=2, label='ROC curve (area = %0.2f)' % roc_auc)
-plt.plot([0,1], [0,1], color='navy', lw=2, linestyle='--')
-plt.xlim([0.0,1.0])
-plt.ylim([0.0,1.0])
+plt.plot(fpr, tpr, color='darkorange', lw = 2, label='ROC curve (area = %0.2f)' % roc_auc)
+plt.plot([0, 1], [0, 1], color='navy', lw = 2, linestyle='--')
+plt.xlim([0.0, 1.0])
+plt.ylim([0.0, 1.0])
 plt.title('ROC curve')
 plt.ylabel('True Positive Rate')
 plt.xlabel('False Positive Rate')
-plt.legend(loc='lower right')
+plt.legend(loc="lower right")
 
 filename = dataOut + 'svm_titanic_roc_curve.png'
 plt.savefig(filename)
 print(f'{filename} 파일이 저장되었습니다.')
-
-
-
-
-
-
-

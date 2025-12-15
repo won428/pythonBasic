@@ -1,7 +1,10 @@
 import math
 
-def square_root(a):
-    return math.sqrt(a)
+def square_root(x):
+    return math.sqrt(x)
+# end def square_root
 
-def jegob(a,b):
-    return a**2 + b**2
+def jegob(x, y):
+    return x**2 + y**2
+# end def jegob
+
